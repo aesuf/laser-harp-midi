@@ -1,0 +1,33 @@
+Added Component: Designator=J2(61201621621)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6120xx21621.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61201621621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61201621621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "August2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=J2-1
+Added Pin To Net: NetName=NetC5_1 Pin=J2-2
+Added Pin To Net: NetName=NetJ4_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ4_3 Pin=J2-4
+Added Pin To Net: NetName=NetJ4_3 Pin=J2-5
+Added Pin To Net: NetName=NetJ4_3 Pin=J2-6
+Added Pin To Net: NetName=NetJ4_3 Pin=J2-7
+Added Pin To Net: NetName=NetJ4_3 Pin=J2-8
+Added Pin To Net: NetName=NetC1_2 Pin=J2-9
+Added Pin To Net: NetName=NetC1_2 Pin=J2-10
+Added Pin To Net: NetName=NetJ4_11 Pin=J2-11
+Added Pin To Net: NetName=NetJ4_11 Pin=J2-12
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ4_11 New Net Name=NetJ2_11
+Added Member To Class: ClassName=powerBus_Sch Member=Component J2 61201621621
