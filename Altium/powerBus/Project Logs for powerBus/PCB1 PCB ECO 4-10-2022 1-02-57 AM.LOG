@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J1 Old Footprint=CONN3_402002_WRE New Footprint=DC_JACK
+Added Member To Class: ClassName=powerBus_Sch Member=Component C3 B41858
+Added Member To Class: ClassName=powerBus_Sch Member=Component C4 GMK316AB7475MLHT
+Added Member To Class: ClassName=powerBus_Sch Member=Component L3 SRN8040TA-5R6M
+Added Member To Class: ClassName=powerBus_Sch Member=Component L4 1264EY-150M=P3

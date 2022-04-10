@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=C7-2
+Removed Pin From Net: NetName=NetC2_1 Pin=PS1-1
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=L3 NewDesignator=L4
+Change Component Designator: OldDesignator=L4 NewDesignator=L5
+Added Component: Designator=L3(IND_SRN8040TA-5R6M)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SRN8040TA-5R6M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=L3-1
+Change Net Name : Old Net Name=+5V New Net Name=+5
+Change Net Name : Old Net Name=+12V New Net Name=+12
+Change Net Name : Old Net Name=-12V New Net Name=-12
+Change Net Name : Old Net Name=GND New Net Name=GND1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=OUTFILT+
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=OUTFILT-
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=L3-2
+Added Pin To Net: NetName=NetC7_2 Pin=PS1-1
+Added Net: Name=NetC7_2
+Added Member To Class: ClassName=powerBus_Sch Member=Component J2 61201621621
+Added Member To Class: ClassName=powerBus_Sch Member=Component J3 61201621621
+Added Member To Class: ClassName=powerBus_Sch Member=Component J4 61201621621
+Added Member To Class: ClassName=powerBus_Sch Member=Component J5 61201621621
+Added Member To Class: ClassName=powerBus_Sch Member=Component J6 61201621621
+Added Member To Class: ClassName=powerBus_Sch Member=Component J7 61201621621
+Added Member To Class: ClassName=powerBus_Sch Member=Component J8 61201621621
+Added Member To Class: ClassName=powerBus_Sch Member=Component J9 61201621621
+Added Member To Class: ClassName=powerBus_Sch Member=Component L5 1264EY-150M=P3
