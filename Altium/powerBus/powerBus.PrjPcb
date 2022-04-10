@@ -74,6 +74,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CAQVNXHB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for powerBus\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
